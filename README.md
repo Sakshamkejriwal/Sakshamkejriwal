@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm [The One & Only] SAKSHAM KEJRIWAL</h1>
 <h3 align="center">A passionate frontend developer from India... Aspiring Future Full Stack Developer...</h3>
 
+![Tux, the Linux mascot](https://media.tenor.com/CnRm4zUcke0AAAAj/pizzaninjas-pizza-ninjas.gif)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshamkejriwal&label=Profile%20views&color=0e75b6&style=flat" alt="sakshamkejriwal" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakshamkejriwal" alt="sakshamkejriwal" /></a> </p>
