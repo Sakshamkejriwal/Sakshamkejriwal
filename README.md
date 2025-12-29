@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm [The One & Only] SAKSHAM KEJRIWAL</h1>  username=sakshamkejriwal&show_icons=true&locale=en&layout=compact" alt="sakshamkejriwalack Developer...</h3>
+<h1 align="center">Hi 👋, I'm [The One & Only] SAKSHAM KEJRIWAL</h1>
+<h3 align="center">A passionate frontend developer from India... Aspiring Future Full Stack Developer...</h3>
 
-![Tux, thsakshamkejriwal&show_icons=true&locale=en&layout=compact" alt="sakshamkejriwaljas.gif)
+![Tux, the Linux mascot](https://media.tenor.com/CnRm4zUcke0AAAAj/pizzaninjas-pizza-ninjas.gif)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshamkejriwal&label=Profile%20views&color=0e75b6&style=flat" alt="sakshamkejriwal" /> </p>
