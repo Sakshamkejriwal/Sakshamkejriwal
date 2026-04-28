@@ -1,36 +1,96 @@
-<h1 align="center">Hi 👋, I'm [The One & Only] SAKSHAM KEJRIWAL</h1>
-<h3 align="center">A passionate frontend developer from India... Aspiring Future Full Stack Developer...</h3>
+# 👋 Hey, I'm Saksham Kejriwal  
 
-![Tux, the Linux mascot](https://media.tenor.com/CnRm4zUcke0AAAAj/pizzaninjas-pizza-ninjas.gif)
+🚀 Frontend Developer | 💡 Aspiring Full Stack Developer  
 
+<img align="right" src="https://camo.githubusercontent.com/93505be098dad01a5b01b3df4d143075b315f97230fcd88ff85446189287503f/68747470733a2f2f6d656469612e74656e6f722e636f6d2f436e526d347a55636b6530414141416a2f70697a7a616e696e6a61732d70697a7a612d6e696e6a61732e676966" width="250"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshamkejriwal&label=Profile%20views&color=0e75b6&style=flat" alt="sakshamkejriwal" /> </p>
+I build **responsive, user-focused web applications** with clean UI and smooth interactions.  
+Focused on writing **scalable and maintainable code** while continuously improving my skills.  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakshamkejriwal" alt="sakshamkejriwal" /></a> </p>
+---
 
-- 🔭 I’m currently studying in **NEWTON SCHOOL OF TECHNOLOGY**
+## 🧠 About Me
 
-- 🌱 I’m currently learning **Bcakend and Full Stack "DEV"elopement**
+- 🎓 BTech @ Newton School of Technology  
+- 🌱 Currently learning: **Backend & Full Stack Development**  
+- 🎯 Focus: **Frontend Development, UI/UX, Real-world Projects**  
+- ⚡ Interested in building impactful and production-ready applications  
 
-- 👯 I’m looking to collaborate on **Frontend Developement**
+---
 
-- 💬 Ask me about **[PYTHON] [HTML] [CSS] [JS]**
+## 🛠️ Tech Stack  
 
-- 📫 How to reach me: **sakshamkejriwal09@gmail.com**
+💻 Languages  
+`HTML` `CSS` `JavaScript` `Python`  
 
-- ⚡ Fun fact **I THINK I AM FUNNY AND FREINDLY AND WOULD LOVE TO COLLABORATE WITH YOU... IF YOU WANN HAVE FUN WITH WORK , YOU ARE AT THE RIGHT PLACE...**
+⚙️ Tools & Frameworks  
+`React` `Tailwind CSS` `Git` `GitHub`  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/saksham_kejriwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saksham_kejriwal" height="30" width="40" /></a>
-<a href="https://instagram.com/saksham__kejriwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saksham__kejriwal" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/saksham kejriwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="saksham kejriwal" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/saksham_kejriwal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="saksham_kejriwal" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/saksham_kejriwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="saksham_kejriwal" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/saksham_kejriwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saksham_kejriwal" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 🚀 Featured Projects  
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakshamkejriwal&show_icons=true&locale=en&layout=compact" alt="sakshamkejriwal" /></p>
+### 🤖 My-ET-AI  
+> AI-based project exploring intelligent interaction and automation  
+- 🧠 Practical implementation of AI concepts  
+- ⚡ Focus on real-world usability  
+- 🔗 [Code](https://github.com/Sakshamkejriwal/My-ET-AI)  
+
+---
+
+### 🎮 Echo Trap  
+> Interactive game with unique mechanics  
+- 🎯 Focus on user interaction and logic  
+- ⚡ Clean implementation and gameplay design  
+- 🔗 [Live Demo](#) | [Code](#)  
+
+---
+
+### 🎬 FilmX  
+> Movie Explorer using OMDb API  
+- 🔍 Search and explore movies  
+- ⚡ API integration with responsive UI  
+- 🔗 [Live Demo](#) | [Code](#)  
+
+---
+
+### 🌐 Portfolio Website  
+> Personal portfolio showcasing projects and skills  
+- ✨ Modern UI with responsive design  
+- 🔗 [Live Demo](#)  
+
+---
+
+## 📊 GitHub Stats  
+
+![Stats](https://github-readme-stats.vercel.app/api?username=sakshamkejriwal&show_icons=true&theme=tokyonight)
+
+![Streak](https://streak-stats.demolab.com?user=sakshamkejriwal&theme=tokyonight)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshamkejriwal&layout=compact&theme=tokyonight)
+
+---
+
+## 🧩 Problem Solving  
+
+- 🟠 LeetCode — https://leetcode.com/u/saksham_kejriwal/  
+- 🔵 Codeforces — https://codeforces.com/profile/saksham_kejriwal  
+
+---
+
+## 🌐 Connect  
+
+- 💼 LinkedIn — https://www.linkedin.com/in/saksham-kejriwal-841784376/  
+- 📧 Email — sakshamkejriwal09@gmail.com  
+
+---
+
+## 🏆 What I Focus On  
+
+- ⚡ Writing clean and maintainable code  
+- 🎯 Building responsive and user-friendly interfaces  
+- 🚀 Continuously learning and improving  
+
+---
+
+⭐ *Feel free to explore my repositories and connect with me!*  
